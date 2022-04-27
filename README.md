@@ -5,6 +5,8 @@ It refreshes every 15 seconds, updating the current coordinates.
 
 A red icon stands for going to, a blue icon stands for returning to. 
 # Link
-To open the web application, click this link: https://gtadeusoares.github.io/Boston-Real-Time-Bus-Tracker/
+Launch app: https://gtadeusoares.github.io/Boston-Real-Time-Bus-Tracker/
 # License
 MIT License
+# Future Improvements
+Create a functionality where when you hover over the bus icons with the mouse crusor, bus information is displayed. 
